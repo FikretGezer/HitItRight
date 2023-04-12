@@ -1,1 +1,2 @@
-*.hlsl linguist-detectable=false
+* linguist-vendored
+*.hlsl linguist-vendored=false
