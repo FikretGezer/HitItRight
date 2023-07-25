@@ -3,6 +3,6 @@
 *.shader linguist-detectable=false
 *.hlsl linguist-detectable=false
 *.cginc linguist-detectable=false
-*.fxh linguist-detectable=false
 *.fx linguist-detectable=false
+*.fxh linguist-detectable=false
 *.hlsli linguist-detectable=false
