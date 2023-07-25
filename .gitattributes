@@ -1,5 +1,5 @@
 *.c# linguist-detectable=true
 *.c++ linguist-detectable=false
-*.shaderlab linguist-detectable=false
+*.shader linguist-detectable=false
 *.hlsl linguist-detectable=false
 *.hlsli linguist-detectable=false
