@@ -1,5 +1,5 @@
 *.cs linguist-detectable=true
 *.c++ linguist-detectable=false
 *.shader linguist-detectable=false
-*.fx linguist-detectable=false
-*.fxh linguist-detectable=false
+//*.fx linguist-detectable=false
+//*.fxh linguist-detectable=false
