@@ -15,11 +15,11 @@ Hit It Right is a score oriented mobile game also it is the first game I created
 ## How the game works?
 ### Movements
 * Movements are really basic.
-* There are two different non-visible buttons on the screen. One is on right and the other one is on the left.
-  - Left button controls the ball up and down
-  - Right button controls the ball left and right
+* There are two non-visible buttons on the screen: one on the right and the other on the left.
+  - The left button controls the ball's up and down movements.
+  - The right button controls the ball's left and right movements.
 
 ### Scoring and Gameplay
-* Each time players hit a colorful brick/wall with the ball that matches with ball's color, players get 1 point.
-* After hitting the correct brick/wall, ball's and brick's color change.
-* If players hit the wall with the ball that doesn't match with the ball's color, game will be over.
+* Each time players hit a colorful brick or wall with the ball that matches the ball's color, players earn 1 point.
+* After hitting the correct brick or wall, both the ball's and the brick's color change.
+* If players hit the wall with the ball that doesn't match the ball's color, the game will be over.
