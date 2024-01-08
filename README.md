@@ -1,4 +1,4 @@
-# ([Hit It Right](https://play.google.com/store/apps/details?id=com.DarkSpies.HITITRIGHT&pli=1))
+# [Hit It Right](https://play.google.com/store/apps/details?id=com.DarkSpies.HITITRIGHT&pli=1)
 ## Screenshots
 <div align="center">
  
