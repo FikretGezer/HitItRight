@@ -4,9 +4,9 @@
  
 </div>
 <div align="center">
- <img src="https://github.com/FikretGezer/CloneCrash/assets/64322071/fbcaaab3-0772-40ff-9539-2dfa7a5ccb63" width="270" height="480">
- <img src="https://github.com/FikretGezer/CloneCrash/assets/64322071/1ab63a6d-4dec-4eb9-80c9-032e6751588f" width="270" height="480">
- <img src="https://github.com/FikretGezer/CloneCrash/assets/64322071/da6b7c68-0a98-43f3-9f77-9efdfa0f61bd" width="270" height="480"> 
+ <img src="https://github.com/FikretGezer/HitItRight/assets/64322071/f415b7fc-535a-45d2-a2e1-b94be939cd55" width="270" height="480">
+ <img src="https://github.com/FikretGezer/HitItRight/assets/64322071/d79d9326-3ad4-4fbc-876d-4357d7d71cae" width="270" height="480">
+ <img src="https://github.com/FikretGezer/HitItRight/assets/64322071/b6832f61-5654-4ad2-94f8-a0d28b91e226" width="270" height="480"> 
 </div>
 
 ## What is this game about?
