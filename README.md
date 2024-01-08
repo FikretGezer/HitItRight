@@ -15,7 +15,7 @@ Hit It Right is a score oriented mobile game also it is the first game I created
 ## How the game works?
 ### Movements
 * Movements are really basic.
-* There are two non-visible buttons on the screen: one on the right and the other on the left.
+* There are two non-visible buttons on the screen: one on the right and the other on the left;
   - The left button controls the ball's up and down movements.
   - The right button controls the ball's left and right movements.
 
